@@ -1,11 +1,11 @@
 .fondo{
-    background-color: aquamarine;
+    background-color: rgba(177, 3, 139, 0.603);
 }
 .titulo{
-    color: red;
+    color: rgba(255, 0, 0, 0.384);
 }
 .paso1{
-    color: blue;
+    color: rgba(0, 0, 255, 0.26);
     font-size: 20px;
     align-items: center;
 }
